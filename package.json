@@ -1,7 +1,7 @@
 {
   "name": "b2x-insight-api",
   "description": "A Segwit2X blockchain REST and web socket API service for Segwit2X Node.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "git://github.com/SegwitB2X/b2x-insight-api.git",
   "contributors": [],
   "bugs": {
@@ -29,6 +29,7 @@
   "dependencies": {
     "async": "*",
     "b2x-core-lib": "^0.1.0",
+    "bignumber.js": "^5.0.0",
     "bitcore-lib": "^0.13.7",
     "bitcore-message": "^1.0.1",
     "body-parser": "^1.13.3",

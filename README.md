@@ -47,6 +47,26 @@ Or disabled entirely with:
 
 ## API HTTP Endpoints
 
+### Total Supply
+
+```
+  `GET` /insight-api/supply
+```
+or
+```
+  `GET` /insight-api/supply?format=object
+```
+This would return:
+```
+100091264
+```
+or
+```
+{
+    "supply": "100091264"
+}
+```
+
 ### Block
 ```
   /insight-api/block/[:hash]
