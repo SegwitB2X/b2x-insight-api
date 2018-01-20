@@ -67,6 +67,22 @@ or
 }
 ```
 
+
+### Statistic Addresses Info
+
+```
+  `GET` /statistics/addresses/info
+```
+
+This would return:
+```
+{
+    "count_active_addresses": 117,
+    "count_addresses_with_balance": 4946,
+    "average_balance": "3421.93439142"
+}
+```
+
 ### Block
 ```
   /insight-api/block/[:hash]
