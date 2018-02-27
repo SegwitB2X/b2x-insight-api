@@ -243,14 +243,7 @@
     "poolName":"pool.b2x-segwit.io",
     "url":"http://pool.b2x-segwit.io/",
     "searchStrings":[
-      "��mm"
-    ]
-  },
-  {
-    "poolName":"multipools.club",
-    "url":"https://www.multipools.club/",
-    "searchStrings":[
-      "�Z"
+      "/pool.b2x-segwit/"
     ]
   }
 ]
